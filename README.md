@@ -29,7 +29,7 @@
 
 ## Getting Start
 
-### Get Logic Dataset
+### Get Diagetes Dataset
 ```python
 from torch.utils.data import DataLoader
 from diabetesForPytorch.datasets import DiabetesDataset
